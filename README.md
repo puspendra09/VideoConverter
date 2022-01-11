@@ -1,4 +1,6 @@
 # VideoConverter
-npm install
+first install dependency
+`npm install`
 
-npm start
+start server
+`npm start`
